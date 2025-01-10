@@ -26,5 +26,5 @@ public class Exercicio02 {
 		}scan.close();
 
 	}
-//teste gitttttt
+//teste gitttttttttt
 }
